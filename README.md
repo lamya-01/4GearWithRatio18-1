@@ -30,6 +30,8 @@ The gear setup includes the following parameters:
   - Position (x, y): (12.093, 8.25)
   - Connected to Gear 3
 
+    Ratio between Gear1 and Gear2 is 72/12 = 6
+
 - Gear 3:
   - Number of teeth: 12
   - Pitch diameter: 2
@@ -44,6 +46,9 @@ The gear setup includes the following parameters:
   - Diametral pitch : 6
   - Pressure Angle : 27
   - Position (x, y): (16.093, 8.25)
+ 
+    Ratio between Gear3 and Gear4 is 36/12 = 3
+    Final Ratio is 6 * 3 = 18
 
 ## Usage
 
