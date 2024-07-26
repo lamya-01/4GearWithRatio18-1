@@ -48,7 +48,8 @@ The gear setup includes the following parameters:
   - Position (x, y): (16.093, 8.25)
  
     Ratio between Gear3 and Gear4 is 36/12 = 3
-    Final Ratio is 6 * 3 = 18
+
+     Final Ratio is 6 * 3 = 18
 
 ## Usage
 
